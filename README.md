@@ -38,15 +38,20 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyansh0712&layout=compact&theme=radical)
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=priyansh0712&theme=react-dark)
+
 </div>
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/priyansh0712/Priyansh-Vekariya/output/github-contribution-grid-snake.svg)
-
 <div align="center">
   
+<!-- Snake animation will appear here after the workflow runs -->
+![Snake animation](https://raw.githubusercontent.com/priyansh0712/Priyansh-Vekariya/output/github-contribution-grid-snake.svg)
+
 ### Watch the snake eat my contributions! 🐍
+
+*Note: The snake animation will appear once the GitHub Action workflow runs for the first time*
 
 </div>
 
