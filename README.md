@@ -47,7 +47,12 @@
 <div align="center">
   
 <!-- Snake animation will appear here after the workflow runs -->
-![Snake animation](https://raw.githubusercontent.com/priyansh0712/Priyansh-Vekariya/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyansh0712/Priyansh-Vekariya/output/snake-dark.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/priyansh0712/Priyansh-Vekariya/output/snake.svg" />
+  </picture>
+</p>
 
 ### Watch the snake eat my contributions! 🐍
 
